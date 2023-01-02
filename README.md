@@ -9,7 +9,7 @@ First I asked about the list of Books and it suggested some books
 ![image](https://user-images.githubusercontent.com/18091939/210236167-8402f18b-c9ac-412f-a8e3-9f0f5d721347.png)
 
 2. Now asked to explain any one book from the list:
- ![code](can you give me outline or any idea what's mentioned in the 1st one)
+ ```can you give me outline or any idea what's mentioned in the 1st one```
  
  ![image](https://user-images.githubusercontent.com/18091939/210236294-db6bcc98-67a8-4e63-82cb-c4f33dadcb4f.png)
 
